@@ -9,6 +9,9 @@
     Four, additional filter items were added which supplies user input to java scrip function to create a desirable dynamic web page. 
 
     The dynamic filter table which filers on multiple items from user input was successfully implemented and tested.
+    	https://github.com/roymammen/UFO_citings_module11/blob/main/index.html
+
+	https://github.com/roymammen/UFO_citings_module11/blob/main/static/js/app.js
 
 3.	Summary: 
 
